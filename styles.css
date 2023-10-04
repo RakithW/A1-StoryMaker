@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eedb02;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    color: #333;
+    padding: 20px 0;
+}
+
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 0 10px #00000033;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button#noun1 {
+    background-color: #992ea4;
+    color: #fff;
+    border: none;
+}
+
+button#verb {
+    background-color: #16afe1;
+    color: #333;
+    border: none;
+}
+
+button#adjective {
+    background-color: #8abb02;
+    color: #fff;
+    border: none;
+}
+
+button#noun2 {
+    background-color: #e59102;
+    color: #fff;
+    border: none;
+}
+
+button#setting {
+    background-color: #c8236a;
+    color: #fff;
+    border: none;
+}
+
+button#reset {
+    background-color: #cb2d2d;
+    color: #fff;
+    border: none;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+#story {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+p#studentId {
+    font-size: 18px;
+    margin-top: 20px;
+    color: #777777;
+}
